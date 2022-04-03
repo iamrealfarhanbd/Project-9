@@ -7,10 +7,10 @@ const Header = () => {
         <div>
             <Navbar bg="dark" expand="lg" variant="dark">
                 <Container>
-                    <Navbar ><Link className="navbar-brand" to={'/'}>React-Bootstrap</Link></Navbar>
+                    <Navbar ><Link className="navbar-brand" to={'/'}>ASUS Zenbook 14X OLED</Link></Navbar>
                     <Navbar.Toggle aria-controls="basic-navbar-nav" />
                     <Navbar.Collapse id="basic-navbar-nav">
-                        <Nav className="me-auto">
+                        <Nav className="mx-auto">
                             <Link className='nav-link' to={'/'}>Home </Link>
                             <Link className='nav-link' to={'/reviews'}>Review</Link>
                             <Link className='nav-link' to={'/dashboard'}>Dashboard</Link>
