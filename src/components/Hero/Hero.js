@@ -1,10 +1,12 @@
 import React from 'react';
 import { Button, Col, Container, Row } from 'react-bootstrap';
+import { useNavigate } from 'react-router-dom';
 import useReview from '../../hooks/useReview';
 import Review from '../Review/Review';
 
 const Hero = () => {
     const [reviews, setReviews] = useReview([])
+    let navigate = useNavigate();
     return (
         <div>
             <Container>
@@ -20,13 +22,14 @@ const Hero = () => {
                 </Row>
                 <Container>
                     <Row >
-                        <h2 className='text-center p-3'> Show All Reviews</h2>
+                        <h2 className='text-center p-3'> Show Top 3 Reviews</h2>
                         {reviews.slice(0, 3).map(review => <Review key={review.id} review={review} />)}
                         <div className="d-flex my-5 justify-content-center">
-                            <Button variant="primary" size="lg">
-                                Block level button
+                            <Button variant="primary" size="lg" 
+                                onClick={() => {navigate("/reviews") }}>
+                                Show More Reviews
                             </Button>
-                        
+
                         </div>
                     </Row>
                 </Container>

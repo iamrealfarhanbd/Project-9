@@ -23,11 +23,11 @@ const Review = (props) => {
     const { Name, Review,Rating, image } = props.review;
     return (
         <>
-            <Col lg={4}>
+            <Col lg={4} md={6}>
                 <Card className='m-2'>
-                    <Card.Header> <img src={image} alt="" rounded className='img-fluid '/> {Name}</Card.Header>
+                    <Card.Header> <img src={image} alt=""  className='img-fluid '/> <b>{Name}</b></Card.Header>
                     <Card.Body>
-                        <Card.Title><span className='d-flex'> Rating: <PrettyRating value={Rating} icons={icons.star} colors={colors.star} /></span> </Card.Title>
+                        <Card.Title> <span className='d-flex'> Rating: <PrettyRating value={Rating} icons={icons.star} colors={colors.star} /> </span> </Card.Title>
                         <Card.Text>
                             {Review}
                         </Card.Text>

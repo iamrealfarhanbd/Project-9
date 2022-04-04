@@ -1,43 +1,43 @@
 [{
   "id": 1,
-  "Name": "Antonia",
-  "Review": "Pea - Snow",
+  "Name": "Ashley McGowan",
+  "Review": "I was hesitant to buy this with so few reviews, but this is a great laptop for a price. It's lightweight, fast & the graphics are good quality. It doesn't get overly hot or loud, even playing games.",
   "image": "https://robohash.org/dolorplaceatipsa.png?size=50x50&set=set1",
-  "Rating": 3
+  "Rating": 5
 }, {
   "id": 2,
-  "Name": "Georgi",
-  "Review": "Orange - Canned, Mandarin",
+  "Name": "John Ahrens",
+  "Review": "Bought this one to replace an Acer Swift 5 which failed after 3 months. This laptop feels much tougher and is working well. My daughter uses it for college so it is slipped into backpacks and bounces it around all day. Only downside is that it feels heavier than the 3.9LBS description states.",
   "image": "https://robohash.org/ethicvelit.png?size=50x50&set=set1",
   "Rating": 5
 }, {
   "id": 3,
-  "Name": "Cherish",
-  "Review": "Creme De Cacao White",
+  "Name": "Astrid Saez",
+  "Review": "It's slick, weighs nothing and is perfect for what I need (browsing internet, working on assignments) and the sound (speakers) are greaaaaat. Battery life is good as well. Came w/ a nice sleeve and external mouse. I'm pleased thus far.",
   "image": "https://robohash.org/exercitationemdictavoluptatem.png?size=50x50&set=set1",
-  "Rating": 3
-}, {
-  "id": 4,
-  "Name": "Kippy",
-  "Review": "Veal - Nuckle",
-  "image": "https://robohash.org/quisofficiisassumenda.png?size=50x50&set=set1",
   "Rating": 5
 }, {
+  "id": 4,
+  "Name": "Orkhan",
+  "Review": "I ordered this notebook in March, after delivery fond that notebook has not numberpad. It has only a fingerprint scanner.",
+  "image": "https://robohash.org/quisofficiisassumenda.png?size=50x50&set=set1",
+  "Rating": 4.5
+}, {
   "id": 5,
-  "Name": "Ulrich",
-  "Review": "Syrup - Monin - Granny Smith",
+  "Name": "Doc Strange",
+  "Review": "Really? keep your cheap wired mouse and crappy case.....otherwise a great laptop....",
   "image": "https://robohash.org/repellatsequiquas.png?size=50x50&set=set1",
-  "Rating": 2
+  "Rating": 4
 }, {
   "id": 6,
-  "Name": "Marys",
-  "Review": "Bandage - Finger Cots",
+  "Name": "Kenneth Moy",
+  "Review": "Overall the laptop really performs in terms of bang for your buck. The issue is the durability. I use it for school and after 18 months or so the screen would turn on and off when it touch it. I expected a little more life out of a laptop in this price.",
   "image": "https://robohash.org/asperioresdictaaut.png?size=50x50&set=set1",
   "Rating": 3
 }, {
   "id": 7,
-  "Name": "Arielle",
-  "Review": "Wine - Malbec Trapiche Reserve",
+  "Name": "Joseph Jean Baptiste Jolicoeur",
+  "Review": "I love this laptop. It is great and what I expected with regards to speed, performance, ease of use, good display.Its the best one I've ever bought.Battery life could be better and fingerprint reader could be improved.I'm not a gamer and bought the laptop for streaming, listening to music, watching videos and personal work. And I'm totally satisfied.",
   "image": "https://robohash.org/etnatusasperiores.png?size=50x50&set=set1",
   "Rating": 5
 }, {
@@ -54,20 +54,20 @@
   "Rating": 4
 }, {
   "id": 10,
-  "Name": "Ax",
-  "Review": "Wine - Cabernet Sauvignon",
+  "Name": "Josh",
+  "Review": "I bought this laptop for school and work and am pretty happy with it so far. I really like the metal skin and it looks pretty stylish. The battery holds a charge for a long time and the speed is very impressive. The screen is a little darker than I hoped for but for the price and speed it's worth to me. I would highly recommend this laptop!",
   "image": "https://robohash.org/quiavoluptatibusquis.png?size=50x50&set=set1",
   "Rating": 5
 }, {
   "id": 11,
-  "Name": "Adiana",
-  "Review": "Kahlua",
+  "Name": "Leota",
+  "Review": "Excellent value and just a great computer.",
   "image": "https://robohash.org/rerumsitoptio.png?size=50x50&set=set1",
   "Rating": 5
 }, {
   "id": 12,
-  "Name": "Giacopo",
-  "Review": "Yogurt - Assorted Pack",
+  "Name": "Farfini B.",
+  "Review": "I became discouraged when i did receive this PC, the icon @ is misplaced for this  There is no back light on the keyboard which is misleading and so frustrating. Can Amazon regulate a quality and assurance checks on products being sole on their platform? Because some products info given are misleading.",
   "image": "https://robohash.org/doloremsuntrepudiandae.png?size=50x50&set=set1",
   "Rating": 3
 }]

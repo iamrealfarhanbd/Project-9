@@ -9,7 +9,7 @@ const Reviews = () => {
 
     return (
         <>
-            <Container>
+            <Container className='mx-auto my-5'>
                 <Row >
                     <h2 className='text-center p-3'> Show All Reviews</h2>
                 {reviews.map(review => <Review key={review.id} review={review} />)}
