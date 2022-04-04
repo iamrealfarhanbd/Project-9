@@ -5,7 +5,7 @@ import { Bar, BarChart, CartesianGrid, Legend, Line, LineChart, ResponsiveContai
 import useChart from '../../hooks/useChart';
 
 const Dashboard = () => {
-  const [charts] = useChart([])
+  const [charts,setCharts] = useChart([])
 
   return (
     <>
