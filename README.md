@@ -9,13 +9,13 @@ This project ABOUT  ASUS Zenbook 14X OLED  [LINK](https://programminghero-a9.net
 * use React Route
 * All Reviews Page
 * DashBoard Page Where displaying Chart
-* 404 Route
+* 404 Route design
 * git Push MeaningFUll 
-* Show 3 Reviews Home Page
+* Home Page and Show 3 Reviews 
 * Blog Route And Show QnA
 * Netlify Reload Error Fixing
 * Destructuring Props
 * Title Meaning Full
 * ReadMe File changing
 * Custom Hook Create
-* 
+* Responsive site
