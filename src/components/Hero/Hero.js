@@ -22,7 +22,7 @@ const Hero = () => {
                 </Row>
                 <Container>
                     <Row >
-                        <h2 className='text-center p-3'> Show Top 3 Reviews</h2>
+                        <h2 className='text-center p-3'> Top 3 Reviews</h2>
                         {reviews.slice(0, 3).map(review => <Review key={review.id} review={review} />)}
                         <div className="d-flex my-5 justify-content-center">
                             <Button variant="primary" size="lg" 

@@ -12,6 +12,7 @@ const Dashboard = () => {
       <Container>
         <Row>
           <Col xs={12} md={6} className= 'mt-5'>
+          <h2 className='text-center p-3'>Sell And Revenue </h2>
           <ResponsiveContainer width="100%"  aspect={1}>
             <LineChart
               width={500}
@@ -29,13 +30,13 @@ const Dashboard = () => {
               <YAxis />
               <Tooltip />
               <Legend />
-              <Line type="monotone" dataKey="investment" stroke="#8884d8" activeDot={{ r: 8 }} />
               <Line type="monotone" dataKey="sell" stroke="#82ca9d" />
               <Line type="monotone" dataKey="revenue" stroke="#FF7F7F" />
             </LineChart>
             </ResponsiveContainer>
           </Col>
           <Col xs={12} md={6} className= 'mt-5'>
+          <h2 className='text-center p-3'> Investment And Revenue </h2>
           <ResponsiveContainer width="100%"  aspect={1}>
           <BarChart
           width={500}
@@ -54,7 +55,7 @@ const Dashboard = () => {
           <Tooltip />
           <Legend />
           <Bar dataKey="investment" fill="#8884d8" />
-          <Bar dataKey="sell" fill="#82ca9d" />
+          {/* <Bar dataKey="sell" fill="#82ca9d" /> */}
           <Bar dataKey="revenue" fill="#FF7F7F" />
         </BarChart>
         </ResponsiveContainer>
